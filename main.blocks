@@ -1,0 +1,7 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><variables></variables><block type="pxt-on-start" id="c$Hb$nFx6f524Gv?(z]O" x="0" y="0"><statement name="HANDLER"><block type="device_print_message" id="DOFZdkn;mlR3H*DupgRS"><value name="text"><shadow type="text" id="HriYRW0bqz(w@,GOB/-%"><field name="TEXT">FDMH 2025</field></shadow></value><next><block type="device_show_leds" id=";dMn%K).amgup*_$+56A"><field name="LEDS">`
+        . . . . . 
+        . # # # . 
+        . # # # . 
+        . # # # . 
+        . . . . .
+        `</field></block></next></block></statement></block><block type="device_forever" id="$[=!l706Yhfqqj*:-Xxu" x="3" y="382"><statement name="HANDLER"><block type="basic_show_icon" id="Jyj}bnkq72QO63Q/FDVi"><field name="i">IconNames.Happy</field><next><block type="device_pause" id="8;,ZcIO#[Mn9i2xgMcoh"><value name="pause"><shadow type="timePicker" id="CN%bKw2SR?Eg)$Mq,W,6"><field name="ms">200</field></shadow></value><next><block type="basic_show_icon" id="r+AUw7O+cVblUyBY[p(#"><field name="i">IconNames.Sad</field></block></next></block></next></block></statement></block></xml>
