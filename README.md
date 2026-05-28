@@ -26,3 +26,4 @@ To edit this repository in MakeCode.
 Testing
 
 Please install the correct dependencies to prevent error when trying to run the program.
+Make sure to install the dependencies before running the program.
