@@ -24,4 +24,5 @@ To edit this repository in MakeCode.
 <script src="https://makecode.com/gh-pages-embed.js"></script><script>makeCodeRender("{{ site.makecode.home_url }}", "{{ site.github.owner_name }}/{{ site.github.repository_name }}");</script>
 
 Testing
-Testing #2
+
+Please install the correct dependencies to prevent error when trying to run the program.
